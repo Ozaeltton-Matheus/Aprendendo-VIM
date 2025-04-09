@@ -1,5 +1,5 @@
-MOVER-SE PELO TEXTO
-Use:
+# MOVER-SE PELO TEXTO
+- Use:
 (j) Para mover o prompt para baixo
 (k) Para mover o prompt para cima
 (l) Para mover o prompt para a direita
@@ -7,7 +7,7 @@ Use:
 (w) Para mover o prompt para o início da proxima palavra
 (e) Para mover o prompt para o final da proxima palavra
 (b) Para mover o prompt para o início da palavra anterior
-
+---
 ESCREVER TEXTO
 Use:
 (i) minúscula para inserir texto do lado esquerdo de onde o prompt está
