@@ -14,3 +14,4 @@ Use:
 (a) minúscula para inserir texto do lado direito de onde o prompt está
 (I) maiúscula para inserir texto no início da linha em que o prompt está
 (A) maiúscula para inserir texto no final da linha onde o prompt está
+
