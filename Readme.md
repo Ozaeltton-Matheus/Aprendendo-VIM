@@ -10,11 +10,11 @@
 ---
 ESCREVER TEXTO
 Use:
-<<<<<<< HEAD
-(i) minúscula para inserir texto do lado esquerdo de onde o prompt está
-(a) minúscula para inserir texto do lado direito de onde o prompt está
-(I) maiúscula para inserir texto no início da linha em que o prompt está
-(A) maiúscula para inserir texto no final da linha onde o prompt está
+<<<<<<< HEAD-
+- (i) minúscula para inserir texto do lado esquerdo de onde o prompt está
+- (a) minúscula para inserir texto do lado direito de onde o prompt está
+- (I) maiúscula para inserir texto no início da linha em que o prompt está
+- (A) maiúscula para inserir texto no final da linha onde o prompt está
 
 APAGAR TEXTO
 Use:
@@ -25,5 +25,11 @@ Use:
 - (a) minúscula para inserir texto do lado direito de onde o prompt está
 - (I) maiúscula para inserir texto no início da linha em que o prompt está
 - (A) maiúscula para inserir texto no final da linha onde o prompt está
+
+E O MAIS IMPORTANTE
+SALVAR O TEXTO
+Saia do modo de ediçao e precione :q
+
+
 
 >>>>>>> cefbd3815ee15e6fd7ee6d9c13082d71b260defc
